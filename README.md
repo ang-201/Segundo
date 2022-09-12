@@ -1,3 +1,4 @@
 # Segundo
 
-Listado de comandos básicos en Linux(nueva versión) 
+Comandos Linux, clasificados por funcion
+
