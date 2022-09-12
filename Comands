@@ -1,0 +1,86 @@
+Comandos esenciales para moverte por la terminal
+
+cd
+mv
+ls
+touch
+cat
+head
+less
+file
+find
+adduser/useradd
+addgroup
+userdel/deluser
+groupdel/delgroup
+nano(Editor de texto)
+vim (Editor de texto)
+mkdir
+rmdir
+rm 
+cp
+whoami
+id
+which
+whatis
+man
+history
+htop
+pwd
+exit 
+sudo -s / sudo - root 
+hostname
+xargs
+
+
+Manejo de paquetes
+
+apt update/ apt-get update
+apt-get dist-upgrade
+apt remove 
+apt-get install / apt install 
+exit
+
+Redes
+arp-scan
+nslookup 
+ping
+w
+nc
+
+
+Filtrado de informacion
+grep
+awk
+tail
+sort
+uniq
+wc
+
+
+
+Permisos y propiedad
+chmod 
+chown 
+chsh
+chgrp
+
+
+Manejo de datos
+xxd
+base64
+
+
+
+
+Sustitucion de informacion
+tr
+sed
+ 
+Servicios
+
+systemctl
+system status
+service
+lsof
+
